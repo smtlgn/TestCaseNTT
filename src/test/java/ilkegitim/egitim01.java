@@ -78,7 +78,6 @@ public class egitim01 {
             driver.findElement(By.id("closeLargeModal")).click();
 
             driver.quit();
-
         }
     }
 }
